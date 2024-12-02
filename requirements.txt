@@ -2,4 +2,12 @@ sphinx
 sphinx-rtd-theme
 streamlit
 langchain
+langchain.community
 PyPDF2
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+
