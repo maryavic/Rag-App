@@ -2,7 +2,11 @@ sphinx
 sphinx-rtd-theme
 streamlit
 langchain
-chromadb
+
 transformer
 PyPDF2
-langchain_ollama
+
+langchain-ollama
+langchain-community
+langchain-core
+langchain-chroma
