@@ -2,12 +2,7 @@ sphinx
 sphinx-rtd-theme
 streamlit
 langchain
-langchain.community
+chromadb
+transformer
 PyPDF2
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-nltk
-
+langchain_ollama
