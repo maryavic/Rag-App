@@ -1,9 +1,5 @@
-streamlit
-PyPDF2
-langchain_community
-langchain_core
-transformers
 sphinx
 sphinx-rtd-theme
+streamlit
 langchain
-
+PyPDF2
